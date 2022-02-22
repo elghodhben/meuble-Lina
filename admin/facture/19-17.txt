@@ -1,0 +1,53 @@
+<div id=fr><table><tr>
+<td width='200'><img src='images/sigle.jpg' width='160' height='150'></td>
+<td width='230'>Votrenom<br>Rue al Qudes<br>Cité el Bahri <br>GSM:58 809 327<br>TVA: VotreTVA</td>
+<td width='200'>
+
+yourguen<br>
+sbiba<br>
+sfax<br>
+22369741<br>
+<br>
+10<br></td></tr></table>
+<br />
+<b>Notice</b>:  Undefined index: gsm in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>28</b><br />
+
+<table>
+<tr><td width='400'>FACTURE nÂ°
+
+19-17
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<br />
+<b>Notice</b>:  Undefined index: oui1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>66</b><br />
+</table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+<br />
+<b>Notice</b>:  Undefined index: oui0 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>117</b><br />
+<br />
+<b>Notice</b>:  Undefined index: oui1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>117</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: tauxtva1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>135</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: tauxtva2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>136</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+DEXIA: 000-000000-00</p>
+
+
+</div>

@@ -1,0 +1,227 @@
+/* basic elements */
+html {
+	margin: 0px;
+	padding: 0px;
+	}
+body { 
+	background: #F6DF85;
+	font: 14pt georgia;
+	float: top; 
+	top: 0%;
+	color: #555753; 
+	margin: 0px; 
+	padding: 0px;
+
+	}
+p { 
+	font: 14pt georgia;  
+	text-align: justify;
+	}
+h2 { 
+	font: bold normal 16pt georgia; 
+	letter-spacing: 1px; 
+	margin-bottom: 0px; 
+	color: #7D775C;
+	}
+h3 { 
+	font: italic normal 14pt georgia; 
+	letter-spacing: 1px; 
+	margin-bottom: 0px; 
+	color: #7D775C;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none;; 
+	color: #B10535;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none;; 
+	color: #B52053;
+	}
+a:hover, a:active { 
+	text-decoration: underline; 
+	color: #B32D23;
+	}
+acronym {
+	border-bottom: none;;
+	}
+
+
+/* specific divs */
+	/* left: 0px; */
+#container { 
+	
+	padding: 0px 175px 0px 110px;  
+	margin: 0px; 
+	position: absolute;
+	top: 25px;
+	left: 0px;
+	border-style: none;
+	}
+
+#intro { 
+	margin left: 500px
+	border-style: solid;
+	}
+#logo {
+	margin-top: 20px; 
+	margin-left: 120px; 
+	width: 200px; 
+	height: 106px;
+	float: left;
+	border-style: none;
+	}
+#pageHeader { 
+	border-style: none;		
+	}
+
+/* using an image to replace text in an h1. This trick courtesy Douglas Bowman, http://www.stopdesign.com/articles/css/replace-text/ */
+/* background: transparent url(/001/h1-fr.gif) no-repeat top left;  */
+
+#pageHeader h1 { 	
+	background: #D56553;
+	margin-top: 75px; 
+	margin-left: 100px; 
+	width: auto; 
+	height: auto;
+	float: left;
+	font-style: italic;
+	border-style: groove;
+	}
+#pageHeader h1 span {
+
+	}
+#pageHeader h2 { 
+	margin-top: 100px; 
+	margin-bottom: 40px; 	
+	border-style: none;	
+	}
+#pageHeader h2 span {
+	}
+
+#quickSummary {
+	background: #F0BA51;
+	margin: 130px 20px 0px 250px;
+	width: 500px; 
+	float: top;
+	font: italic 15pt georgia; 
+	text-align:center;
+	border-style: none;
+	}
+
+#preamble {
+	clear: right; 
+	padding: 0px 10px 0px 10px;
+	border-style: none;
+	}
+#supportingText {	
+	margin-left: 50px;
+	margin-top: 0px;	
+	width: 50px;
+	padding-left: 10px; 
+	margin-bottom: 40px;
+	min-width: 1000px;
+	border-style: none;
+	}
+
+#explanation {	
+	margin-top: 200px;
+	min-height: 400px;
+	}
+
+#footer {
+ 		text-align: center; 
+	}
+#footer a:link, #footer a:visited { 
+	margin-right: 60px; 
+	color: #DF9911;
+	}
+#liste {
+	margin: 20px 20px 20px 20px; 
+	}
+
+	/* margin-left: 600px; */
+#linkList {
+	margin-left: 0px; 
+	position: absolute; 
+	top: 180px; 
+	left: 20px;
+	background: #D8BF5B; 
+	width: auto; 
+	height: auto;
+	border-style: outset;
+	font: 15px verdana, sans-serif;
+	}
+#linkList2 { 
+	}
+#linkList h3.select { 
+	background: url('/001/h3-fr.gif') no-repeat top left; 
+	width: 97px; 
+	height: 24px; margin-left:0px; margin-right:0px; margin-top:10px; margin-bottom:5px 
+	}
+#linkList h3.select span {
+	display:none;
+	}
+#linkList h3.favorites { 
+	background: url('/001/h4.gif') no-repeat top left; 
+	width: 60px; 
+	height: 18px; margin-left:0px; margin-right:0px; margin-top:25px; margin-bottom:5px 
+	}
+#linkList h3.favorites span {
+	display:none;
+	}
+#linkList h3.archives { 
+	background: url('/001/h5.gif') no-repeat top left; 
+	width:57px; 
+	height: 14px; margin-left:0px; margin-right:0px; margin-top:25px; margin-bottom:5px 
+	}
+#linkList h3.archives span {
+	display:none;
+	}
+#linkList h3.resources { 
+	background: url('/001/h6-fr.gif') no-repeat top left; 
+	width:63px; 
+	height: 10px; margin-left:0px; margin-right:0px; margin-top:25px; margin-bottom:5px 
+	}
+#linkList h3.resources span {
+	display:none;
+	}
+
+
+#linkList ul {
+	margin: 0px;
+	padding: 0px;
+	}
+#linkList li {
+	line-height: 2.5ex; 
+	background: url('/001/cr1.gif') no-repeat top center; 
+	display: block; 
+	padding-top: 5px; 
+	margin-bottom: 5px;
+	list-style-type: none
+	}
+#linkList li a:link {
+	color: #FF0C00;
+	}
+#linkList li a:visited {
+	color: #FF4C00;
+	}
+#langue	{
+	top: 100%;
+	float: right;
+	margin-left: 20px;
+	clear: both;
+	}
+
+#extraDiv1 {
+	margin-top: 10px; 
+	margin-left: 10px; 
+	width: 100px; 
+	height: 106px; 
+	float: left;
+	/* border-style: solid; */	
+	}
+.accesskey {
+	text-decoration: underline;
+	}

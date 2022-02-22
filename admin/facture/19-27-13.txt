@@ -1,0 +1,25 @@
+<div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>Nom<br>Prénom<br>CIN<br>Adresse livraison<br>Type livraison<br>Frais de livrason</td>
+<td width='200'>
+awadni<br>
+ahmed<br>
+11096060<br>
+hhhhhhhhh<br>
+à domicile<br>
+</td></tr></table><br><br>
+<table>
+<tr><td width='400'>Facture Numero :
+19-27-13</td><td>02/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>chambre à couple</td><td>1540</td><td>1</td><td>1%</td><td></td><td>1540 DT</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 1540 DT</b></td></tr></table>
+<!-- tableau TVA -->
+
+<p>
+Dexia: 792-5772646-34
+</p>
+</div>

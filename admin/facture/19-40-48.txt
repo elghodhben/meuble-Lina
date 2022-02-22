@@ -1,0 +1,27 @@
+<div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>Nom<br>Prénom<br>CIN<br></td>
+<td width='200'>
+jallouli<br>
+bacem<br>
+12676725<br>
+
+</td></tr></table><br><br>
+<table>
+<tr><td width='400'>Facture Numéro :
+19-40-48</td><td>Le Dimanche 02 Juin 2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+<br><br>
+<table border='1'>
+<tr><th width='200'> Nom article </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th>
+<th width='100'>Frais de livraison</tr>
+<tr><td>bibi</td><td>1580</td><td>1</td><td>50 DT</td><td>1580 DT</td></tr><tr><td>chambre enfant</td><td>1130</td><td>1</td><td>50 DT</td><td>1130 DT</td></tr></table>
+<br>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 2810 DT</b></td></tr></table>
+<!-- tableau TVA -->
+
+<p>
+Dexia: 792-5772646-34
+</p>
+</div>

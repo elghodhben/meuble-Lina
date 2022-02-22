@@ -1,0 +1,30 @@
+<div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>Nom<br>Prénom<br>CIN<br>Adresse livraison<br>Type livraison</td>
+<td width='200'>
+dkhaili<br>
+jihen<br>
+12660548<br>
+vvvvvvv<br>
+par transporteur<br>
+</td></tr></table>
+<table>
+<tr><td width='400'>Facture Numero :
+19-56-47</td><td>02/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>chambre individuelle</td><td>960</td><td>1</td><td>1%</td><td>960 DT</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 960 DT</b></td></tr></table>
+<!-- tableau TVA -->
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>960</td><td>660</td><td>1620 &euro;</td></tr>
+<tr><th>TVA</th><td>57.6</td><td>138.6</td><td>196.2 &euro;</td></tr>
+<tr><th>Total</th><td>1017.6</td><td>798.6</td><td><b>1816.2 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+</div>

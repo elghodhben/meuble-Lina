@@ -1,0 +1,1280 @@
+<div id=fr><table><tr>
+<td width='200'><img src='images/sigle.jpg' width='160' height='150'></td>
+<td width='230'>Votrenom<br>3, Rue Bidon<br>4598 VilleBidon, Belgique<br>GSM: 0000/00.00.00<br>TVA: VotreTVA</td>
+<td width='200'>
+
+yourguen<br>
+sbiba<br>
+sfax<br>
+22369741<br>
+<br>
+10<br></td></tr></table>
+<br />
+<b>Notice</b>:  Undefined index: gsm in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>28</b><br />
+
+<table>
+<tr><td width='400'>FACTURE nÂ°
+
+19-4
+
+</td><td>31/05/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<br />
+<b>Notice</b>:  Undefined index: oui1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>66</b><br />
+</table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+<br />
+<b>Notice</b>:  Undefined index: oui0 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>117</b><br />
+<br />
+<b>Notice</b>:  Undefined index: oui1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>117</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: tauxtva1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>135</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: tauxtva2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\ahmed awadni\49278-0-facturation-en-php\facture2\text\facture2.php</b> on line <b>136</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+DEXIA: 000-000000-00</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Notice</b>:  Undefined variable: i3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>79</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>94</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Notice</b>:  Undefined variable: i3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>79</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>94</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Notice</b>:  Undefined variable: i3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>79</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr><br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>66</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td>%</td><td>0&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>94</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><br />
+<b>Notice</b>:  Undefined variable: i3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>79</b><br />
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>94</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite1 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite2 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite3 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite4 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite5 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite6 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite7 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite8 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite9 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite10 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+<br />
+<b>Notice</b>:  Undefined index: quantite11 in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>73</b><br />
+</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>94</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td><br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>72</b><br />
+12</td><td><br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>75</b><br />
+%</td><td>0&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 0&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>94</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>92</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>115</b><br />
+<br />
+<b>Notice</b>:  Undefined index: TVA in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>119</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+<br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>112</b><br />
+<br />
+<b>Notice</b>:  Undefined index: prix in <b>C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\projects\Bacem\pfe\admin\facture2.php</b> on line <b>113</b><br />
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>0</td><td>0</td><td><b>0 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>10440</td><td>10440</td><td>20880 &euro;</td></tr>
+<tr><th>TVA</th><td>626.4</td><td>2192.4</td><td>2818.8 &euro;</td></tr>
+<tr><th>Total</th><td>11066.4</td><td>12632.4</td><td><b>23698.8 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>10440</td><td>10440</td><td>20880 &euro;</td></tr>
+<tr><th>TVA</th><td>626.4</td><td>2192.4</td><td>2818.8 &euro;</td></tr>
+<tr><th>Total</th><td>11066.4</td><td>12632.4</td><td><b>23698.8 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+awadni<br>
+hhhhhhhhh<br>
+hjjjm<br>
+à domicile<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>10440</td><td>10440</td><td>20880 &euro;</td></tr>
+<tr><th>TVA</th><td>626.4</td><td>2192.4</td><td>2818.8 &euro;</td></tr>
+<tr><th>Total</th><td>11066.4</td><td>12632.4</td><td><b>23698.8 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>10440</td><td>10440</td><td>20880 &euro;</td></tr>
+<tr><th>TVA</th><td>626.4</td><td>2192.4</td><td>2818.8 &euro;</td></tr>
+<tr><th>Total</th><td>11066.4</td><td>12632.4</td><td><b>23698.8 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>10440</td><td>10440</td><td>20880 &euro;</td></tr>
+<tr><th>TVA</th><td>626.4</td><td>2192.4</td><td>2818.8 &euro;</td></tr>
+<tr><th>Total</th><td>11066.4</td><td>12632.4</td><td><b>23698.8 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>10440</td><td>10440</td><td>20880 &euro;</td></tr>
+<tr><th>TVA</th><td>626.4</td><td>2192.4</td><td>2818.8 &euro;</td></tr>
+<tr><th>Total</th><td>11066.4</td><td>12632.4</td><td><b>23698.8 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div><div id=fr><table><tr>
+<td width='200'><img src='../web/images/logo1.jpg' width='160' height='150'></td>
+<td width='230'>A.B.Vins'Amour<br>sur l'agaux 124<br>B-4651 Herve<br>GSM: 0495/32.86.22<br>BCE 0774.124.732</td>
+<td width='200'>
+
+dkhaili<br>
+vvvvvvv<br>
+jjjjjjj<br>
+par transporteur<br>
+<br>
+</td></tr></table>
+
+<table>
+<tr><td width='400'> nÂ°
+
+19-4
+
+</td><td>01/06/2019</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr><tr><td>jallouli bacem</td><td>12500</td><td>12</td><td>870&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 9570&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>10440</td><td>10440</td><td>20880 &euro;</td></tr>
+<tr><th>TVA</th><td>626.4</td><td>2192.4</td><td>2818.8 &euro;</td></tr>
+<tr><th>Total</th><td>11066.4</td><td>12632.4</td><td><b>23698.8 &euro;</b></td></tr>
+</table>
+<p>
+Dexia: 792-5772646-34
+</p>
+
+
+</div>

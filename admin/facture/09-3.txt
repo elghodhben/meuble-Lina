@@ -1,0 +1,41 @@
+<div id=fr><table><tr>
+<td width='200'><img src='http://vinsamour.be/images/vins-amour-sigle.jpg' width='160' height='150'></td>
+<td width='230'>Votrenom<br>4598 VilleBidon, Belgique<br>3, Rue Bidon<br>GSM: 0000/00.00.00<br>TVA: VotreTVA</td>
+<td width='200'>
+
+ff<br>
+ff<br>
+ff<br>
+ff<br>
+<br>
+ff<br></td></tr></table>
+
+<table>
+<tr><td width='400'>FACTURE nÂ°
+
+09-3
+
+</td><td>12/10/2009</td></tr>
+</table>
+<!-- contenu de la page tableau etc... -->
+
+<table border='1'>
+<tr><th width='200'> D&eacute;nomination </th><th width='100'> Prix unitaire </th><th width='100'> Quantit&eacute; </th><th width='100'> Taux TVA </th><th width='100'> Prix HTVA </th></tr>
+<tr><td>fff</td><td>56.90</td><td>1</td><td>6%</td><td>56.9&euro;</td></tr></table>
+<table><tr><td width='400'></td><td><b>TOTAL HTVA: 56.9&euro;</b></td></tr></table>
+
+<!-- tableau TVA -->
+
+
+
+<table border='1'>
+<tr><th width='100'></th><th width='100'>TVA 6%</th><th width='100'>TVA 21%</th><th width='100'>TOTAL</th></tr>
+<tr><th>Prix HTVA</th><td>56.9</td><td>0</td><td>56.9 &euro;</td></tr>
+<tr><th>TVA</th><td>0</td><td>0</td><td>0 &euro;</td></tr>
+<tr><th>Total</th><td>56.9</td><td>0</td><td><b>56.9 &euro;</b></td></tr>
+</table>
+<p>
+DEXIA: 000-000000-00</p>
+
+
+</div>
